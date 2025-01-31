@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zubair Ali</h1>
+<h1 align="center">Hi 👋 there, I'm Zubair Ali</h1>
 <h3 align="center">A passionate Web Developer from Lahore, Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerzubi&label=Profile%20views&color=0e75b6&style=flat" alt="developerzubi" /> </p>
